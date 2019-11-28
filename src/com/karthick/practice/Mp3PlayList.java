@@ -15,7 +15,7 @@ import static java.util.stream.Collectors.toList;
 /**
  * @author karthick.r1
  */
-public class Demo {
+public class Mp3PlayList {
 
     public static void main(String[] args) throws IOException {
 
